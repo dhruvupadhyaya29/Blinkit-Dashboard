@@ -59,4 +59,4 @@ Inventory Management: Forecast demand by category and reduce stockouts.
 Revenue Growth: Pinpoint top-selling SKUs and underperforming zones.
 
 6. Screenshots / Demos
-Show what the dashboard looks like.
+Show what the dashboard looks like.- https://github.com/dhruvupadhyaya29/Blinkit-Dashboard/blob/main/Blinkit%20Dashboard%20Image.png
