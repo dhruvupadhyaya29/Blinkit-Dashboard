@@ -78,3 +78,4 @@ Revenue Growth: Pinpoint top-selling SKUs and underperforming zones.
 Screenshots / Demos :
 
 Show what the dashboard looks like.- 
+<img width="1520" height="860" alt="Blinkit Dashboard Image" src="https://github.com/user-attachments/assets/e430bb50-49d3-4641-8c2f-168c6b59e2d4" />
